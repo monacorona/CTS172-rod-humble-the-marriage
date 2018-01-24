@@ -1,7 +1,3 @@
-# the-marriage
-HTML Canvas port of Rod Humble's The Marriage
-
-
 Writing a Player’s Guide
 
 
